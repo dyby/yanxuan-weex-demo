@@ -15,7 +15,7 @@
   "author": "zwwill",
   "license": "MIT",
   "dependencies": {
-    "vue": "^2.4.2",
+    "vue": "^2.4.4",
     "vue-router": "^2.7.0",
     "vuex": "^2.1.1",
     "vuex-router-sync": "^4.3.0",
@@ -33,7 +33,7 @@
     "history": "^4.7.2",
     "quick-local-ip": "^1.0.7",
     "vue-loader": "^13.0.4",
-    "vue-template-compiler": "^2.4.2",
+    "vue-template-compiler": "^2.4.4",
     "webpack": "^2.7.0",
     "webpack-dev-server": "^2.4.2",
     "weex-builder": "^0.2.7",
